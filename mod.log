@@ -1,0 +1,57 @@
+[16-05-20 17:41:45] Info: Compiling Milkshake Shop to bin/build-160520174145697.dll...
+[16-05-20 17:41:45] Info: Compiling from `CustomShops.csproj`.
+[16-05-20 17:41:45] Info: Resolved assembly reference `Assembly-CSharp` to `c:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-05-20 17:41:45] Info: IGNORING assembly reference `Microsoft.CSharp`
+[16-05-20 17:41:45] Info: Resolved assembly reference `System` to `System.dll`
+[16-05-20 17:41:45] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-05-20 17:41:45] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-05-20 17:41:45] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-05-20 17:41:45] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-05-20 17:41:45] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-05-20 17:41:45] Info: Resolved assembly reference `UnityEngine` to `c:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-05-20 17:41:45] Info: Resolved assembly reference `UnityEngine.UI` to `c:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-05-20 17:41:45] Info: Source files: Main.cs, CustomShopLoader.cs, Shop\ShopInstance.cs, Shop\WerableProductInstance.cs, Shop\Decorator\IDecorator.cs, Shop\Decorator\PriceDecorator.cs, Shop\Decorator\NameDecorator.cs, Shop\ConsumableProductInstance.cs, Shop\Decorator\Product\ProductDecorator.cs, Shop\Decorator\Product\WerableProductDecorator.cs, Shop\Decorator\Product\ConsumableProductDecorator.cs, Shop\Decorator\ShopSettingsDecorator.cs, Shop\Decorator\Product\OnGoingProductDecorator.cs, Shop\OngoingEffectProductInstance.cs from `C:\Users\RobKing\Documents\Parkitect\pnmods\RobKingParkitect@Parkitect`.
+[16-05-20 17:41:45] Info: Compile using compiler version v3.5.
+7:52:04] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-22 03:27:29] Info: Compiling Milkshake Shop to bin/build-160222032729436.dll...
+[16-02-22 03:27:29] Info: Compiling from `CustomShops.csproj`.
+[16-02-22 03:27:29] Info: Resolved assembly reference `Assembly-CSharp` to `C:\Users\RobKing\Desktop\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-02-22 03:27:29] Info: IGNORING assembly reference `Microsoft.CSharp`
+[16-02-22 03:27:29] Info: Resolved assembly reference `System` to `System.dll`
+[16-02-22 03:27:29] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-02-22 03:27:29] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-02-22 03:27:29] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-02-22 03:27:29] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-02-22 03:27:29] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-02-22 03:27:29] Info: Resolved assembly reference `UnityEngine` to `C:\Users\RobKing\Desktop\Parkitect_Data\Managed\UnityEngine.dll`
+[16-02-22 03:27:29] Info: Resolved assembly reference `UnityEngine.UI` to `C:\Users\RobKing\Desktop\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-02-22 03:27:29] Info: Source files: Main.cs, CustomShopLoader.cs, Shop\ShopInstance.cs, Shop\WerableProductInstance.cs, Shop\Decorator\IDecorator.cs, Shop\Decorator\PriceDecorator.cs, Shop\Decorator\NameDecorator.cs, Shop\ConsumableProductInstance.cs, Shop\Decorator\Product\ProductDecorator.cs, Shop\Decorator\Product\WerableProductDecorator.cs, Shop\Decorator\Product\ConsumableProductDecorator.cs, Shop\Decorator\ShopSettingsDecorator.cs, Shop\Decorator\Product\OnGoingProductDecorator.cs, Shop\OngoingEffectProductInstance.cs from `C:\Users\RobKing\Documents\Parkitect\pnmods\Milkshake_2.0`.
+[16-02-22 03:27:29] Error: Could not find a part of the path 'C:\Users\RobKing\Documents\Parkitect\pnmods\Milkshake_2.0\Shop\ShopInstance.cs'.
+[16-05-20 13:36:45] Info: Loaded build-160520133640015, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-20 13:36:45] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-20 13:37:58] Info: Loaded build-160520133640015, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-20 13:37:58] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-20 13:42:40] Info: Loaded build-160520134225602, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-20 13:42:40] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-20 16:59:59] Info: Loaded build-160520134225602, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-20 16:59:59] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-20 17:00:59] Info: Loaded build-160520134225602, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-20 17:00:59] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-20 17:01:31] Info: Loaded build-160520170126711, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-20 17:01:31] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-20 17:03:09] Info: Loaded build-160520170126711, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-20 17:03:09] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-20 17:06:40] Info: Loaded build-160520170126711, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-20 17:06:40] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-20 17:06:52] Info: Loaded build-160520170647305, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-20 17:06:52] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-20 17:08:48] Info: Loaded build-160520170842780, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-20 17:08:48] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-20 17:30:16] Info: Loaded build-160520173009434, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-20 17:30:16] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-20 17:33:32] Info: Loaded build-160520173326683, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-20 17:33:32] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-20 17:40:51] Info: Loaded build-160520174045511, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-20 17:40:51] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-05-20 17:42:03] Info: Loaded build-160520174145697, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-20 17:42:03] Info: Sucessfully registered CustomShops.Main to the mod manager.

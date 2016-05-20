@@ -1,0 +1,30 @@
+﻿{
+	"Milkshakes" : {
+		"model":"milkshake",
+		"price": 160.0,
+		"products": {
+			"Milkshake": {
+				"model":"milkshakep",
+				"price": 1.5,
+				"type" : "consumable",
+				"temprature" : "hot",
+                "hand" : "left",
+				"consumeanimation" : "generic", 
+				"portions" : 10,
+				"ingredients": {
+					"Ice" :{
+					 "price": 1.0,
+					 "amount" : 1.0,
+					"tweakable" : true,
+					"effects": [
+					{
+						"affectStat" : "hunger",
+						"amount" : -.4
+					}]
+						
+					}
+				}
+			}
+		}
+	}
+}
